@@ -67,7 +67,7 @@ function checkIfEven() {
     if (input % 2 == 0) {
         document.getElementById("output").textContent = `Your input is even number!`
     } else {
-        document.getElementById("output").textContent= `Your input is odd even!`
+        document.getElementById("output").textContent= `Your input is odd number!`
     }
 }
 // Strike Status ?
